@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"JavaFxAlertBox","l":"JavaFxAlertBox()"},{"p":"<Unnamed>","c":"JavaFxAlertBox","l":"start(Stage)","url":"start-javafx.stage.Stage-"}]
